@@ -1,0 +1,24 @@
+Software/Tools Used: 
+1. AngularJS: A structural framework for dynamic web applications.
+2. Java Development Kit (JDK): Provides the necessary tools and libraries for Java development.
+3. Integrated Development Environments (IDEs): Such as Eclipse, IntelliJ IDEA, or NetBeans for writing and managing Java code.
+4. Database Management Systems (DBMS): Such as Oracle, MySQL or PostgreSQL for JDBC operations.
+5. Apache Tomcat: A web server and servlet container to run and test Servlets and JSP applications.
+6. Maven or Gradle: Build automation tools for managing project dependencies and building Java projects.
+7. Web Browsers: For testing and running AngularJS applications.
+8. Version Control Systems: Such as Git for source code management and collaboration.
+18.Hardware/Devices Used:
+1. Personal Computers (PCs) or Laptops: For development, testing, and running the applications. Ideally, these should have at least:
+   - Processor: Dual-core or higher (Intel i5/i7 or AMD Ryzen 5/7)
+   - RAM: 8GB or more
+   - Storage: SSD for faster performance
+2. Servers: Physical or virtual servers may be used to deploy and test web applications, especially when dealing with Servlets and JSP. These could include:
+   - Local development servers (e.g., XAMPP, WAMP)
+   - Remote cloud servers (e.g., AWS, Azure, Google Cloud)
+3. Network Devices: For connectivity and testing network-related features.
+   - Routers and Switches
+   - Network cables and Wi-Fi adapters
+4. External Storage Devices: Such as USB drives or external hard disks for backing up code and database files.
+
+5. Monitors: Dual monitors can enhance productivity during development by allowing simultaneous viewing of code and application output.
+6. Input Devices: Standard keyboards and mice, with potential use of specialized input devices like graphic tablets for certain development tasks.
